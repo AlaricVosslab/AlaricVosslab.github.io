@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AlaricVosslab.github.io/sitemap.xml
